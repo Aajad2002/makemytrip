@@ -789,5 +789,207 @@
       "rating": "4.4",
       "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/201905081714483043-6594-62d3a7961c3111eca0250a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
     }
+  ],
+  "homeStays": [
+    {
+      "id": 1,
+      "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-66526ea4b70211ec8c9e0a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,5&output-format=webp",
+      "imageArray": ["https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-66526ea4b70211ec8c9e0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,18&output-format=jpg",
+      "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-c3e98306b56111ec96d80a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,4&output-format=jpg",
+      "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-cd9d1f96caa311ecbf0f0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg",
+      "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-cdc8f38ccaa311ecadc70a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg",
+      "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-cdcde82ecaa311ecb16b0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;87,0&output-format=jpg"
+      ],
+      "imageUpper" : "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-c3e98306b56111ec96d80a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,4&output-format=jpg",
+      "imageLower":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202203041145457856-cd9d1f96caa311ecbf0f0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg",
+      "rating": "4.4",
+      "review":"Excellent (73 RATINGS)",
+      "name": "Treehouse Vega, A Boutique Hotel",
+      "location": "Colva | In South Goa | 7-8 minutes walk from Colva Beach",
+      "description": "Deluxe Room",
+      "subDescription": "For 2 Adults",
+      "desc": "30+ solo travellers rated their stay Excellent",
+      "price": 4102,
+      "cancelPrice": "4900",
+      "deal": "100% Money Back Guarantee on Clean rooms with TV,AC& Free Wi-Fi",
+      "detail": "Room Only",
+      "saving": "Saving 798",
+      "locationForSort": "SouthGoa"
+    },
+  
+    {
+      "id": 2,
+      "image": "https://r1imghtlak.mmtcdn.com/eeca3804562311e992260242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/e0bc0440562311e9a6de0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;88,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/eeca3804562311e992260242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/f8b263aef03411e986330242ac110007.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg", "https://r1imghtlak.mmtcdn.com/feeccd9460d911e9aea30242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+        "https://r1imghtlak.mmtcdn.com/63d31a72562811e984190242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;93,0&output-format=jpg",
+        "https://r1imghtlak.mmtcdn.com/00b40d1860da11e990210242ac110006.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/0986e82c562411e98cfe0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;88,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/e0bc0440562311e9a6de0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;88,0&output-format=jpg",
+      "rating": 4.1,
+      "review":"Very Good (232 RATINGS)",
+      "name": "XOXO Hostel",
+      "location": "Anjuna ",
+      "descLocation":"| In North Goa | 4-5 minutes walk from Anjuna Beach",
+      "description": "BED IN A HOSTEL",
+      "subDescription": "Sleeps 1 guest",
+      "desc": "30+ solo travellers rated their stay Excellent",
+      "price": 572,
+      "cancelPrice": "715",
+      "deal": "Last minute deal! This a special rock bottom price offered by the property for clearance!",
+      "detail": "1 BED IN A SIX BED DORE",
+      "saving": "Saving 143",
+      "locationForSort": "NorthGoa"
+    },
+
+    {
+      "id": 3,
+      "image": "https://r1imghtlak.mmtcdn.com/4685aea2765d11e5b9140022195573b9.jfif?&output-quality=75&downsize=243:162&crop=243:162;0,16&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/4685aea2765d11e5b9140022195573b9.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,59&output-format=jpg",
+        "https://r1imghtlak.mmtcdn.com/f91d37f4021411eb88880242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;111,0&output-format=jpg",
+        "https://r1imghtlak.mmtcdn.com/dbc62ad2a44c11eb883c0242ac110002.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg",
+      "https://r1imghtlak.mmtcdn.com/30e98b84021911ebae460242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;70,0&output-format=jpg",
+      "https://r1imghtlak.mmtcdn.com/38d47a0e6ed611e7bdee025f77df004f.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/f91d37f4021411eb88880242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;111,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/dbc62ad2a44c11eb883c0242ac110002.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg",
+      "rating": 3.8,
+      "review":"Very Good (1232 RATINGS)",
+      "name": "Alagoa Resort",
+      "location": "Betalbatim | In South Goa | 1.8 km from Betalbatim Beach",
+      "description": "Classic Room",
+      "subDescription": "For 2 Adults",
+      "desc": "100% Money Back Guarantee on Clean rooms with TV, AC & Free Wi-Fi",
+      "price": 2337,
+      "cancelPrice": "3220",
+      "deal": "100% Money Back Guarantee on Clean rooms with TV,AC& Free Wi-Fi",
+      "detail": "Room Only",
+      "saving": "Saving 883",
+      "locationForSort": "SouthGoa"
+    },
+
+    {
+      "id": 4,
+      "image": "https://r1imghtlak.mmtcdn.com/8efac1b61b1011ea91120242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/50d92fc21b0f11ea8fc30242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg", "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201909051318286514-020b83b81d9411eab0220242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,148&output-format=jpg", "https://r1imghtlak.mmtcdn.com/eba1e5e6cfae11e9a43d0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/b7a251301b4011eaa8bd0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;31,0&output-format=jpg","https://r1imghtlak.mmtcdn.com/49dbb0861b1011ea91110242ac110007.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg","https://r1imghtlak.mmtcdn.com/d54129f6cfae11e9bb6a0242ac110006.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/50d92fc21b0f11ea8fc30242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/d50818d61b4011ea92570242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg",
+      "rating": 3.8,
+      "review":"Very Good (232 RATINGS)",
+      "name": "The Hosteller Goa | Dorms & Private Huts",
+      "location": "Anjuna | In North Goa | 4-5 minutes walk from Anjuna Beach",
+      "description": "BED IN A HOSTEL",
+      "subDescription": "Sleeps 1 guest",
+      "desc": "100% Money Back Guarantee on Clean rooms with TV, AC & Free Wi-Fi",
+      "price": 436,
+      "cancelPrice": "604",
+      "deal": "Last minute deal! This a special rock bottom price offered by the property for clearance!",
+      "detail": "Bed in 15 Bed Mixed Dormitory",
+      "saving": "Saving ₹ 168",
+      "locationForSort": "NorthGoa"
+    },
+
+    {
+      "id": 5,
+      "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201903130201008076-7855b8c8450311e9bc780242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/c91847bec02611e9970b0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/b31b2774c02611e9bd780242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/5b3de5640af811eb8afa0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,12&output-format=jpg", "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201903130201008076-7855b8c8450311e9bc780242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg","https://r1imghtlak.mmtcdn.com/7a0d8966450311e99e700242ac110003.jfif?&output-quality=75&output-format=jpg","https://r1imghtlak.mmtcdn.com/99b2d85864d811e9af150242ac110003.jfif?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/b31b2774c02611e9bd780242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/5b3de5640af811eb8afa0242ac110003.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,12&output-format=jpg",
+      "rating": 5,
+      "review":"Excellent (144 Ratings)",
+      "name": "Carft Hostel",
+      "location": "Anjuna | In North Goa | 4-5 minutes walk from Anjuna Beach",
+      "description": "BED IN A HOSTEL",
+      "subDescription": "Sleeps 1 guest",
+      "desc": "Best in Budget: This MMT Value Stays property is a great choice!",
+      "price": 549,
+      "cancelPrice": "699",
+      "deal": "Last minute deal! This a special rock bottom price offered by the property for clearance!",
+      "detail": "10 Bed Mixed Dorm",
+      "saving": "Saving ₹ 150",
+      "locationForSort": "NorthGoa"
+    },
+
+    {
+      "id": 6,
+      "image": "https://r1imghtlak.mmtcdn.com/f23a8148752211ed8a350a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/f23a8148752211ed8a350a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg","https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200902241302229852-f98102eeb23c11e99f2f0242ac140003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg", 
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200902241302229852-147adb24b23d11e99f2f0242ac140003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+         "https://r1imghtlak.mmtcdn.com/571154d42b7111e996980242ac110003.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,6&output-format=jpg",
+         "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200902241302229852-cd56edc8b23c11e99f2f0242ac140003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
+     ],
+     "imageUpper" : "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200902241302229852-f98102eeb23c11e99f2f0242ac140003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+     "imageLower": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200902241302229852-147adb24b23d11e99f2f0242ac140003.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+     "rating": "4.1",
+     "review":"Very Good (1277 RATINGS)",
+     "name": "Goa Woodlands Hotel",
+     "location": "Margao | In South Goa ",
+     "description": "AC Executive",
+     "subDescription": "For 2 Adults",
+     "desc": "100% Money Back Guarantee on Clean rooms with TV, AC & Free Wi-Fi",
+     "price": 2511,
+     "cancelPrice": "2700",
+     "deal": "100% Money Back Guarantee on Clean rooms with TV,AC& Free Wi-Fi",
+     "detail": "Room with Breakfast",
+     "saving": "Saving 189",
+     "locationForSort": "SouthGoa"
+   },
+
+    {
+      "id": 7,
+      "image": "https://r1imghtlak.mmtcdn.com/e7ddcdac2fa411ea903c0242ac110004.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/a23adfb4b1f111e9bdd70242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/272b91d4427d11ea8da20242ac110006.jpeg?&output-quality=75&downsize=910:612&crop=910:612;89,0&output-format=jpg", "https://r1imghtlak.mmtcdn.com/29bbe282427d11ea929a0242ac110004.jpg?&output-quality=75&downsize=910:612&output-format=jpg", "https://r1imghtlak.mmtcdn.com/c85e9866b1f111e9bf610242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg","https://r1imghtlak.mmtcdn.com/3b53b5d4b1e011e9b3600242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg","https://r1imghtlak.mmtcdn.com/59327b48427d11ea8db40242ac110005.png?&output-quality=75&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/272b91d4427d11ea8da20242ac110006.jpeg?&output-quality=75&downsize=910:612&crop=910:612;89,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/3b53b5d4b1e011e9b3600242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "rating": 3.9,
+      "review":"Very Good (38 RATINGS)",
+      "name": "Bega Beach Place",
+      "location": "Bega | 2-3 minutes walk from Baga Beach",
+      "description": "BED IN A HOUSE",
+      "subDescription": "Sleeeps 2 guests",
+      "desc": "30+ solo travellers rated their stay Excellent",
+      "price": 7707,
+      "cancelPrice": "10000",
+      "deal": "Last minute deal! This a special rock bottom price offered by the property for clearance!",
+      "detail": "Aspire Holiday Homes | 1 BHK Apartment",
+      "saving": "Saving ₹ 2293",
+      "locationForSort": "BeachProperty"
+    },
+    
+    {
+      "id": 8,
+      "image": "https://r1imghtlak.mmtcdn.com/a64bf44a124211ecbc3d0a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;30,0&output-format=webp",
+      "imageArray": [
+        "https://r1imghtlak.mmtcdn.com/a64bf44a124211ecbc3d0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;118,0&output-format=jpg",
+         "https://r1imghtlak.mmtcdn.com/24b5f2fe00f011ec86b10a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg", 
+         "https://r1imghtlak.mmtcdn.com/444bc8dc00f011ec96eb0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+          "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202108041730272432-3d22f2f4028711ec9fba0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;89,0&output-format=jpg",
+          "https://r1imghtlak.mmtcdn.com/8ea54d54124311ecbc3d0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg"
+      ],
+      "imageUpper" : "https://r1imghtlak.mmtcdn.com/24b5f2fe00f011ec86b10a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+      "imageLower": "https://r1imghtlak.mmtcdn.com/444bc8dc00f011ec96eb0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+      "rating": "4.6",
+      "review":"Excellent (542 RATINGS)",
+      "name": "Fairflied by Marriott Goa Benaulim",
+      "location": "Benaulim | In South Goa | 2-3 minutes walk from Benaulim Beach",
+      "description": "Deluxe Garden",
+      "subDescription": "For 2 Adults",
+      "desc": "30+ solo travellers rated their stay Excellent",
+      "price": 8799,
+      "cancelPrice": "9514",
+      "deal": "Free meals for kids upto 12 years and experience adventure activities",
+      "detail": "Room Only",
+      "saving": "Saving 426",
+      "locationForSort": "SouthGoa"
+    }
   ]
 }
